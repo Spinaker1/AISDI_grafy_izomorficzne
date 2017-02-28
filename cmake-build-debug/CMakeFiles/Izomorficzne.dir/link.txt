@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Izomorficzne.dir/main.cpp.o  -o Izomorficzne 

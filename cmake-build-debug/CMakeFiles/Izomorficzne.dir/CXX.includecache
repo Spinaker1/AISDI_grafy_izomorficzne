@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcin/Izomorficzne/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+sstream
+-
+algorithm
+-
+list
+-
+
